@@ -5,6 +5,7 @@
 
 🅷🅾🆆 🆃🅾 🆄🆂🅴
 
+### Kali-Linux
 ```
 apt update
 apt upgrade
@@ -13,7 +14,18 @@ cd InstaUpdate
 chmod +x update.sh
 bash update.sh
 ```
+### Termux
+```
+apt update
+apt upgrade
+pkg install git
+pkg install bash
+git clone https://github.com/sunnamsriram1/InstaUpdate.git
+cd InstaUpdate
+chmod +x update.sh
+bash update.sh
 
+```
 ### Blog: 
 ``` https://teletechstore.blogspot.com](https://sprogram00zone.blogspot.com/?m=1 ``` 
 
