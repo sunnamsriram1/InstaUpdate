@@ -3,7 +3,7 @@
 𝟐.𝟑𝟓 𝐁𝐢𝐥𝐥𝐢𝐨𝐧 𝐏𝐞𝐨𝐩𝐥𝐞 𝐅𝐢𝐧𝐝 𝐭𝐡𝐞 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 𝐃𝐚𝐭𝐚 𝐀𝐜𝐫𝐨𝐬𝐬 𝐎𝐯𝐞𝐫 
 
 ![Screenshot (266)](https://github.com/sunnamsriram1/InstaUpdate/blob/main/Feature%20Image%20(9).png)
-![Screenshot (266)](https://user-images.githubusercontent.com/93708296/160673599-c63c1649-8aa9-485b-81b5-71af336f5159.png)
+
 🅷🅾🆆 🆃🅾 🆄🆂🅴
 
 ### Kali-Linux
