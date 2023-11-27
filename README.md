@@ -27,8 +27,6 @@ chmod +x update.sh
 bash update.sh
 ```
 
-![64d1efb619589c654bb98407_getphyllo Feature Image (9)](https://github.com/sunnamsriram1/InstaUpdate/assets/59051820/19120aa6-ceb0-43d4-9acc-e35411f010a5)
-
 ### Blog: 
 ``` https://teletechstore.blogspot.com](https://sprogram00zone.blogspot.com/?m=1 ``` 
 
