@@ -24,6 +24,12 @@ git clone https://github.com/sunnamsriram1/InstaUpdate.git
 cd InstaUpdate
 chmod +x update.sh
 bash update.sh
+```
+![Screenshot (265)](https://user-images.githubusercontent.com/93708296/160673593-c8499850-71f4-4035-b97a-fdd8effebb93.png)
+![Screenshot (266)](https://user-images.githubusercontent.com/93708296/160673599-c63c1649-8aa9-485b-81b5-71af336f5159.png)
+
+```
+
 
 ```
 ### Blog: 
